@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Aterz</title>
-  <icon>http://yoursite.com/icon.png</icon>
+  <icon>https://gezi.eu.org/icon.png</icon>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://gezi.eu.org/"/>
   <updated>2020-03-12T10:18:32.534Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://gezi.eu.org/</id>
   
   <author>
     <name>Aterz</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>text</title>
-    <link href="http://yoursite.com/Machine-Learning/Deep/text/"/>
-    <id>http://yoursite.com/Machine-Learning/Deep/text/</id>
+    <link href="https://gezi.eu.org/Machine-Learning/Deep/text/"/>
+    <id>https://gezi.eu.org/Machine-Learning/Deep/text/</id>
     <published>2020-03-12T03:42:38.000Z</published>
     <updated>2020-03-12T10:18:32.534Z</updated>
     
@@ -31,25 +31,25 @@ Welcome to Hexo! This is your very first post. Check documentation for more info
     </summary>
     
     
-      <category term="Machine Learning" scheme="http://yoursite.com/categories/Machine-Learning/"/>
+      <category term="Machine Learning" scheme="https://gezi.eu.org/categories/Machine-Learning/"/>
     
-      <category term="Deep" scheme="http://yoursite.com/categories/Machine-Learning/Deep/"/>
+      <category term="Deep" scheme="https://gezi.eu.org/categories/Machine-Learning/Deep/"/>
     
     
-      <category term="Machine Learning" scheme="http://yoursite.com/tags/Machine-Learning/"/>
+      <category term="Machine Learning" scheme="https://gezi.eu.org/tags/Machine-Learning/"/>
     
-      <category term="Deep Learning" scheme="http://yoursite.com/tags/Deep-Learning/"/>
+      <category term="Deep Learning" scheme="https://gezi.eu.org/tags/Deep-Learning/"/>
     
-      <category term="Computer Science" scheme="http://yoursite.com/tags/Computer-Science/"/>
+      <category term="Computer Science" scheme="https://gezi.eu.org/tags/Computer-Science/"/>
     
-      <category term="Python" scheme="http://yoursite.com/tags/Python/"/>
+      <category term="Python" scheme="https://gezi.eu.org/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/uncategorized/hello-world/"/>
-    <id>http://yoursite.com/uncategorized/hello-world/</id>
+    <link href="https://gezi.eu.org/uncategorized/hello-world/"/>
+    <id>https://gezi.eu.org/uncategorized/hello-world/</id>
     <published>2020-03-11T15:03:26.109Z</published>
     <updated>2020-03-11T15:03:26.110Z</updated>
     
