@@ -3,7 +3,8 @@
   <entry>
     <title>text</title>
     <url>/Machine-Learning/Deep/text/</url>
-    <content><![CDATA[<p>Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.</p>
+    <content><![CDATA[<p><img data-src="https://cdn.jsdelivr.net/gh/Aterz/BlogImg/img/20200312181746.png" alt="20200312181746.png"><br>
+Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub.</p>
 <a id="more"></a>
 <p>First</p>
 <div class="note success">
@@ -22,6 +23,8 @@
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>a</mi><mo>+</mo><mi>b</mi></mrow><annotation encoding="application/x-tex">a+b
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="strut" style="height:0.69444em;"></span><span class="strut bottom" style="height:0.77777em;vertical-align:-0.08333em;"></span><span class="base displaystyle textstyle uncramped"><span class="mord mathit">a</span><span class="mbin">+</span><span class="mord mathit">b</span></span></span></span></span></p>
 <p><img data-src="https://cdn.jsdelivr.net/gh/Aterz/BlogImg/img/img/my_schedule.png" alt=""></p>
+<p><img data-src="https://cdn.jsdelivr.net/gh/Aterz/BlogImg/img/img/20200312181632.png" alt="20200312181632.png"></p>
+<p><img data-src="https://cdn.jsdelivr.net/gh/Aterz/BlogImg/img/20200312181746.png" alt="20200312181746.png"></p>
 ]]></content>
       <categories>
         <category>Machine Learning</category>
